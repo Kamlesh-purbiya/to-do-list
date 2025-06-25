@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kamlesh-purbiya/to-do-list/static/css/main.701239b7.css",
+    "main.js": "/Kamlesh-purbiya/to-do-list/static/js/main.d341115a.js",
+    "static/js/453.8d371e8c.chunk.js": "/Kamlesh-purbiya/to-do-list/static/js/453.8d371e8c.chunk.js",
+    "index.html": "/Kamlesh-purbiya/to-do-list/index.html",
+    "main.701239b7.css.map": "/Kamlesh-purbiya/to-do-list/static/css/main.701239b7.css.map",
+    "main.d341115a.js.map": "/Kamlesh-purbiya/to-do-list/static/js/main.d341115a.js.map",
+    "453.8d371e8c.chunk.js.map": "/Kamlesh-purbiya/to-do-list/static/js/453.8d371e8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.701239b7.css",
+    "static/js/main.d341115a.js"
+  ]
+}
