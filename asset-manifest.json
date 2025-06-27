@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Kamlesh-purbiya/to-do-list/static/css/main.701239b7.css",
-    "main.js": "/Kamlesh-purbiya/to-do-list/static/js/main.9e0cae0e.js",
-    "static/js/453.8d371e8c.chunk.js": "/Kamlesh-purbiya/to-do-list/static/js/453.8d371e8c.chunk.js",
-    "index.html": "/Kamlesh-purbiya/to-do-list/index.html",
-    "main.701239b7.css.map": "/Kamlesh-purbiya/to-do-list/static/css/main.701239b7.css.map",
-    "main.9e0cae0e.js.map": "/Kamlesh-purbiya/to-do-list/static/js/main.9e0cae0e.js.map",
-    "453.8d371e8c.chunk.js.map": "/Kamlesh-purbiya/to-do-list/static/js/453.8d371e8c.chunk.js.map"
+    "main.css": "/to-do-list/static/css/main.701239b7.css",
+    "main.js": "/to-do-list/static/js/main.6c11f03c.js",
+    "static/js/453.8d371e8c.chunk.js": "/to-do-list/static/js/453.8d371e8c.chunk.js",
+    "index.html": "/to-do-list/index.html",
+    "main.701239b7.css.map": "/to-do-list/static/css/main.701239b7.css.map",
+    "main.6c11f03c.js.map": "/to-do-list/static/js/main.6c11f03c.js.map",
+    "453.8d371e8c.chunk.js.map": "/to-do-list/static/js/453.8d371e8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.701239b7.css",
-    "static/js/main.9e0cae0e.js"
+    "static/js/main.6c11f03c.js"
   ]
 }
